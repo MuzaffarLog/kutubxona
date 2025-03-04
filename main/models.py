@@ -46,3 +46,4 @@ class Record(models.Model):
         return f"{self.talaba} - {self.kitob}"
 
 
+
